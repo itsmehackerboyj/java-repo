@@ -168,7 +168,8 @@ class arr
 		for (int i=0;i<4;i++)
 			System.out.println(aa22[i]);
 	}
-	void aa22()
+//multi demenaional array
+ aa22()
 	{
 		int[][] a23= {{1,2,3,4},{101,102,103,104}};
 		
