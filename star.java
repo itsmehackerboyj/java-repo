@@ -9,7 +9,7 @@ public class star {
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the star value");
 		n=s.nextInt();
-		/*
+		
 		for(i=0;i<=n;i++)
 		{
 		for(j=0;j<=i;j++)
@@ -26,7 +26,7 @@ public class star {
 		}
 		System.out.println();
 		}
-		*/
+	
 		
 		
 		for(i=1;i<=n;i++)
