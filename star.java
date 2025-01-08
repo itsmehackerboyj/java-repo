@@ -12,18 +12,19 @@ public class star {
 		n = s.nextInt();*/
 
 		for (i = 0; i <= n; i++) {
-			for (j = 0; j <= i; j++) {
+			for (j = 1; j <= i; j++) {
 				System.out.print(" *");
 			}
 			System.out.println();
 		}
+	System.out.println();
 		for (i = 0; i < n; i++) {
 			for (j = 1; j <= -i + 5; j++) {
 				System.out.print(" *");
 			}
 			System.out.println();
 		}
-
+System.out.println();
 		for (i = 1; i <= n; i++) {
 			for (int h = 1; h <= i; h++) {
 				System.out.print(" ");
