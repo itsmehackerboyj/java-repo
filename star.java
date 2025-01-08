@@ -29,7 +29,7 @@ System.out.println();
 			for (int h = 1; h <= i; h++) {
 				System.out.print(" ");
 			}
-			for (j = 1; j <= 5 - i + 1; j++) {
+			for (j = 0; j <= 5 - i + 1; j++) {
 				System.out.print("*");
 			}
 			System.out.println();
