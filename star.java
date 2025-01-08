@@ -19,7 +19,7 @@ public class star {
 		}
 	System.out.println();
 		for (i = 0; i < n; i++) {
-			for (j = 1; j <= -i + 5; j++) {
+			for (j = 0; j <= -i + 5; j++) {
 				System.out.print(" *");
 			}
 			System.out.println();
