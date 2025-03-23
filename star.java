@@ -4,7 +4,7 @@ public class star {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n,i,j;
+		int n=1,i,j;
 		
 	/*	Scanner s=new Scanner(System.in);
 		System.out.println("Enter the star value");
