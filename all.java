@@ -169,7 +169,7 @@ class arr
 			System.out.println(aa22[i]);
 	}
 //multi demenaional array
- aa22()
+ void aa22()
 	{
 		int[][] a23= {{1,2,3,4},{101,102,103,104}};
 		
@@ -357,7 +357,7 @@ public class all{
 		System.out.println("-------------------------------");
 		
 		//array single dimentional method and then it's type
-		
+		 
 		//datatype[] variablename=new datatype[size];
 		System.out.println("ARRAY :");
 		System.out.println("~~~~~~");
@@ -365,16 +365,8 @@ public class all{
 		arr aa23=new arr();
 		aa23.aa21();
 		//multi dimensional array
-		aa23.aa22();
-		
-		
-		
-	
-		
-		
-			
-	
-		}
+		aa23.aa22();	
+			}
 
 }
 
